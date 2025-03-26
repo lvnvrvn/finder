@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/finder-gh-pages/static/css/main.4381e9fa.css",
+    "main.js": "/finder-gh-pages/static/js/main.e176b07a.js",
+    "index.html": "/finder-gh-pages/index.html",
+    "main.4381e9fa.css.map": "/finder-gh-pages/static/css/main.4381e9fa.css.map",
+    "main.e176b07a.js.map": "/finder-gh-pages/static/js/main.e176b07a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4381e9fa.css",
+    "static/js/main.e176b07a.js"
+  ]
+}
